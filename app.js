@@ -930,9 +930,8 @@
         <span class="home-eyebrow">La Quête du Héros</span>
         <h1 class="home-title">Ethan<span class="apo">'</span>Zer</h1>
         <div class="home-divider"><span class="home-divider-mark"></span></div>
-        <p class="home-subtitle">L'aventure d'une vie</p>
       </div>
-      
+
       <div class="home-buttons">
         <button class="btn btn-primary" id="btn-create">⚔️ Créer une partie</button>
         <button class="btn btn-secondary" id="btn-join">🛡️ Rejoindre une partie</button>

@@ -339,7 +339,7 @@ body::after{
   display:flex;flex-direction:column;gap:12px;
   width:100%;max-width:340px;
   position:relative;z-index:2;
-  margin-top:28px;
+  margin-top:40px;
 }
 
 .home-recent{
