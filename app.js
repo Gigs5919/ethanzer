@@ -21,60 +21,60 @@
 
   const STORY_SLIDES = [
     {
-      chapter: 'Prologue',
+      chapter: 'Slide 1',
       emoji: '🌀',
       portrait: 'serieux',
-      title: 'Return by Death',
-      text: 'Ethan\'Zer. On dit de lui qu\'il possède un pouvoir maudit. Chaque fois qu\'il meurt, il revient au point de départ. Les souvenirs restent. La douleur reste. Il recommence jusqu\'à trouver la bonne voie. Ce pouvoir ne le rend pas invincible. Il le rend inépuisable.',
+      title: 'Invocation',
+      text: 'Ethanzer pensait vivre une journée normale.\n\nUn instant banal, un bruit de klaxon… puis plus rien.\n\nÀ son réveil, le décor a changé : un monde étrange, où tout semble possible… et dangereux.\n\nUne voix murmure qu\'il a été choisi.\n\nMais pour quoi… et à quel prix ?',
     },
     {
-      chapter: 'Chapitre I',
+      chapter: 'Slide 2',
       emoji: '🐺',
       portrait: 'etone',
-      title: 'Emilia a disparu',
-      text: 'Il apprend une triste nouvelle. Les Wolgarms frappent dans l\'ombre. Ces bêtes démoniaques, servantes du Culte de la Sorcière, arrachent Emilia et l\'entraînent dans la forêt avoisinante. Leur territoire. Un endroit sombre où la nuit tombe trop vite. Ethan\'Zer serre les poings. Il doit y entrer.',
+      title: 'Les souvenirs brisés',
+      text: 'L\'arrivée d\'Ethanzer n\'était pas sans conséquence.\n\nSon invocation a perturbé l\'équilibre du monde.\n\nUne anomalie s\'est formée… et Emilia en a payé le prix.\n\nSes souvenirs ont été effacés.\n\nComme si leur lien n\'avait jamais existé.',
     },
     {
-      chapter: 'Chapitre II',
+      chapter: 'Slide 3',
       emoji: '💍',
       portrait: 'face',
-      title: 'La prophétie du 22 août',
-      text: 'Une prophétie doit s\'accomplir le 22 août. Ce jour-là, la force d\'Ethan\'Zer et la force d\'Emilia doivent fusionner pour vaincre le mal. Mais les Wolgarms veulent empêcher cela. S\'ils retiennent Emilia et lui font du mal, Ethan\'Zer sera triste, et la prophétie ne pourra pas se réaliser.',
+      title: 'La prophétie du 22 Août',
+      text: 'Une ancienne prophétie mentionne une date précise : le 22 août 2026.\n\nCe jour-là, deux destins doivent s\'unir.\n\nUn lien fort, presque indestructible.\n\nMais sans ses souvenirs, Emilia ne pourra jamais accepter Ethanzer.\n\nEt il sera renvoyé d\'où il vient… seul.',
     },
     {
-      chapter: 'Chapitre III',
-      emoji: '🐻',
-      portrait: 'salut',
-      title: 'Le Clan répond présent',
-      text: 'Il ne part pas seul. Le Clan des Oursons se lève avec lui. Leur rôle est clair : évaluer chaque défi, valider chaque victoire. Sans leur verdict, aucune avancée n\'est possible. Seul, la quête s\'arrête là. Ensemble, elle peut commencer.',
-    },
-    {
-      chapter: 'Chapitre IV',
-      emoji: '⚔️',
-      portrait: 'mouvement',
-      title: 'La forêt des épreuves',
-      text: 'Les Wolgarms ont semé des épreuves à chaque carrefour de la forêt. Elles testent la motivation. Elles testent les nerfs. Toutes posent la même question silencieuse : est-ce que tu mérites vraiment de la retrouver ?',
-    },
-    {
-      chapter: 'Chapitre V',
+      chapter: 'Slide 4',
       emoji: '✨',
       portrait: 'charismatique',
-      title: 'Les Boosters, source de puissance',
-      text: 'Chaque épreuve surmontée libère des Boosters. Des fragments d\'énergie arrachés aux griffes du Culte. Sans eux, pas d\'endurance pour affronter les Wolgarms. 24 Boosters. C\'est la condition pour libérer Emilia. Pas un de moins.',
+      title: 'Les fragments de mémoire',
+      text: 'La prophétie ne se limite pas à unir deux destins.\n\nElle évoque aussi 24 fragments dispersés à travers le monde.\n\nDes "boosters", porteurs des souvenirs d\'Emilia.\n\nEn les ouvrant, ses souvenirs seront libérés…\n\nEt sa mémoire peu à peu restaurée.',
     },
     {
-      chapter: 'Chapitre VI',
+      chapter: 'Slide 5',
+      emoji: '⚔️',
+      portrait: 'mouvement',
+      title: 'Les épreuves du destin',
+      text: 'Les boosters ne se trouvent pas… ils se méritent.\n\nChacun d\'eux est lié à une épreuve.\n\nUn test de courage, d\'esprit ou de détermination.\n\nRien ne sera donné. Tout devra être gagné.\n\nUn chemin semé d\'obstacles et de décisions.',
+    },
+    {
+      chapter: 'Slide 6',
+      emoji: '🐻',
+      portrait: 'salut',
+      title: 'Le clan répond présent',
+      text: 'Mais Ethanzer n\'est pas seul.\n\nÀ ses côtés se tiennent les Oursons.\n\nAlliés fidèles, ils l\'accompagneront dans chaque épreuve.\n\nCe sont eux qui jugeront et valideront chaque victoire.\n\nCar seul, il échouerait… mais unis, ils ont une chance.',
+    },
+    {
+      chapter: 'Slide 7',
       emoji: '🔥',
       portrait: 'cote',
-      title: 'Pas question de flancher',
-      text: 'Si Ethan\'Zer flanche, s\'il est trop à plat pour avancer, il n\'atteint pas les 24 Boosters. Et sans eux, Emilia reste prisonnière des Wolgarms. Ce n\'est tout simplement pas envisageable. Il revient au départ. Et il repart.',
+      title: 'La motivation avant tout',
+      text: 'Le chemin sera difficile.\n\nLes épreuves mettront la détermination d\'Ethanzer à rude épreuve.\n\nMais abandonner n\'est pas une option.\n\nChaque pas le rapprochera d\'Emilia…\n\nEt de l\'union qui l\'attend.',
     },
     {
-      chapter: 'Épilogue',
+      chapter: 'Slide 8',
       emoji: '🌲',
       portrait: 'dos',
-      title: 'L\'alliance entre dans la forêt',
-      text: 'Le Clan est prêt. L\'alliance se forme et franchit les premiers arbres. Quelque part au fond de la forêt, Emilia attend. Les épreuves commencent maintenant.',
+      title: 'Le début des épreuves',
+      text: 'Le clan est prêt. L\'alliance se met en route…\n\nPlus rien ne peut les arrêter.\n\nEthanzer… tout repose sur toi.\n\nNe sois pas le facteur limitant.\n\nSeras-tu à la hauteur ?',
     },
   ];
 
@@ -1221,9 +1221,8 @@
             return `
             <div class="story-slide">
               <div class="story-portrait" data-pose="${pose}"><img src="assets/ethan/${pose}.png" alt="Ethan'Zer" /></div>
-              <span class="slide-chapter">${sl.chapter}</span>
               <h2 class="slide-title">${sl.title}</h2>
-              <p class="slide-text">${sl.text}</p>
+              <p class="slide-text">${sl.text.replace(/\n\n/g, '<br><br>')}</p>
             </div>`;
           }).join('')}
         </div>
