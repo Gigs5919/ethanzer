@@ -1083,7 +1083,7 @@ body::after{
 }
 .slide-text{
   font-family:var(--font-serif);
-  font-size:17px;line-height:1.80;
+  font-size:19px;line-height:1.80;
   color:#dde2ef;
   max-width:340px;
   margin:0 auto;
@@ -1966,7 +1966,7 @@ body::after{
   .role-card{padding:14px 6px}
   .story-portrait{width:124px;height:124px}
   .slide-title{font-size:22px}
-  .slide-text{font-size:15px}
+  .slide-text{font-size:17px}
 }
 @media (min-width:768px){
   .btn{font-size:15px}
@@ -1987,7 +1987,7 @@ body::after{
   .story-portrait{width:160px;height:160px}
   .slide-title{font-size:28px;max-width:360px}
   .slide-text{
-    font-size:17px;
+    font-size:19px;
     line-height:1.82;
     max-width:360px;
     padding-bottom:16px;
@@ -2004,7 +2004,7 @@ body::after{
   .story-portrait{width:168px;height:168px}
   .slide-title{font-size:28px}
   .slide-text{
-    font-size:17px;
+    font-size:19px;
     line-height:1.85;
     padding-bottom:16px;
   }
@@ -2015,7 +2015,7 @@ body::after{
   .story-portrait{width:172px;height:172px}
   .slide-title{font-size:30px;max-width:380px}
   .slide-text{
-    font-size:17.5px;
+    font-size:19.5px;
     line-height:1.88;
     max-width:380px;
   }
@@ -2033,7 +2033,7 @@ body::after{
   .story-portrait{width:108px;height:108px;margin-top:0}
   .story-slide{gap:9px;padding:30px 22px 12px}
   .slide-title{font-size:20px;margin:0 auto 2px}
-  .slide-text{font-size:15.5px;line-height:1.68;padding-bottom:8px}
+  .slide-text{font-size:17.5px;line-height:1.68;padding-bottom:8px}
   .carousel-footer{padding:10px 20px 14px;gap:8px}
 }
 
@@ -2041,7 +2041,7 @@ body::after{
 @media (max-height:580px){
   .story-portrait{width:82px;height:82px}
   .slide-title{font-size:18px}
-  .slide-text{font-size:14px;line-height:1.60;padding-bottom:6px}
+  .slide-text{font-size:16px;line-height:1.60;padding-bottom:6px}
   .slide-chapter{font-size:9px;padding:3px 10px}
 }
 
