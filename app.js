@@ -165,14 +165,14 @@
       emoji: '✨',
       portrait: 'salut',
       title: 'La lumire revient',
-      text: 'Ethanzer… Quand je te regarde… mon cœur s\'accélère. Je ne comprends pas… mais j\'ai l\'impression de t\'avoir perdu… Et de te retrouver… en même temps. Pourquoi est-ce que ça me fait autant d\'effet ?',
+      text: 'Ethan\'Zer… Quand je te regarde… mon cœur s\'accélère. Je ne comprends pas… mais j\'ai l\'impression de t\'avoir perdu… Et de te retrouver… en même temps. Pourquoi est-ce que ça me fait autant d\'effet ?',
     },
     {
       chapter: 'Emilia',
       emoji: '💛',
       portrait: 'charismatique',
       title: 'Enfin réunis',
-      text: 'Je… je commence à comprendre… Ce vide que je ressentais… ce n\'était pas normal. J\'avais perdu une partie de moi… Et cette partie… te concernait. Ethanzer… tu m\'as aidée à la retrouver.',
+      text: 'Je… je commence à comprendre… Ce vide que je ressentais… ce n\'était pas normal. J\'avais perdu une partie de moi… Et cette partie… te concernait. Ethan\'Zer… tu m\'as aidée à la retrouver.',
     },
     {
       chapter: 'Emilia',
@@ -186,7 +186,7 @@
       emoji: '💍',
       portrait: 'seduction',
       title: 'Le 22 Août',
-      text: 'Ethanzer… Ce n\'est pas seulement la prophétie… C\'est ce que je ressens. Même sans mes souvenirs… mon cœur te reconnaissait déjà. Alors aujourd\'hui… je te choisis.',
+      text: 'Ethan\'Zer… Ce n\'est pas seulement la prophétie… C\'est ce que je ressens. Même sans mes souvenirs… mon cœur te reconnaissait déjà. Alors aujourd\'hui… je te choisis.',
     },
     {
       chapter: 'Pour Toujours',
