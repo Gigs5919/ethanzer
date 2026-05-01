@@ -161,39 +161,39 @@
   ────────────────────────────────────────────── */
   const EMILIA_SLIDES = [
     {
-      chapter: 'Délivrance',
+      chapter: 'Delivrance',
       emoji: '✨',
       portrait: 'salut',
-      title: 'La lumière revient',
-      text: 'Ethan\'Zer découvre une pièce sombre et insalubre. Emilia est là. Prisonnière, affaiblie, mais vivante. Les Wolgarms reculent. Le Culte se dissout dans les ombres. Au milieu du silence, Emilia ouvre les yeux. Elle le voit. Elle est libre.',
+      title: 'La lumire revient',
+      text: 'Ethanzer… Quand je te regarde… mon cœur s\'accélère. Je ne comprends pas… mais j\'ai l\'impression de t\'avoir perdu… Et de te retrouver… en même temps. Pourquoi est-ce que ça me fait autant d\'effet ?',
     },
     {
       chapter: 'Emilia',
       emoji: '💛',
       portrait: 'charismatique',
-      title: 'Merci, Ethan\'Zer',
-      text: 'Merci de m\'avoir sauvée. Tu es venu malgré la forêt, malgré les Wolgarms, malgré la peur. J\'ai cru que personne ne me retrouverait. Mais toi, tu as continué. Grâce à toi, je suis encore là.',
+      title: 'Enfin réunis',
+      text: 'Je… je commence à comprendre… Ce vide que je ressentais… ce n\'était pas normal. J\'avais perdu une partie de moi… Et cette partie… te concernait. Ethanzer… tu m\'as aidée à la retrouver.',
     },
     {
       chapter: 'Emilia',
       emoji: '🥲',
       portrait: 'pensive',
-      title: 'J\'ai eu peur',
-      text: 'Les ombres étaient partout. Les Wolgarms veillaient. Je ne savais pas si quelqu\'un réussirait à venir jusqu\'à moi. Mais à chaque instant, j\'espérais que tu reviendrais. Ton courage, ta volonté et ton Clan m\'ont ramenée.',
+      title: 'Merci !!!',
+      text: 'Maintenant je me souviens. Tout ce que tu as fait… tout ce que tu as traversé… pour moi. Tu ne m\'as jamais abandonnée… Merci… d\'être resté à mes côtés.',
     },
     {
       chapter: 'La prophétie',
       emoji: '💍',
       portrait: 'seduction',
-      title: 'Le 22 août',
-      text: 'Maintenant, la prophétie peut se réaliser. Le 22 août, sous le ciel d\'été, la force d\'Ethan et la force d\'Emilia pourront enfin fusionner. Le mal n\'a pas gagné. L\'engagement pourra avoir lieu. Plus rien ne pourra les arrêter.',
+      title: 'Le 22 Août',
+      text: 'Ethanzer… Ce n\'est pas seulement la prophétie… C\'est ce que je ressens. Même sans mes souvenirs… mon cœur te reconnaissait déjà. Alors aujourd\'hui… je te choisis.',
     },
     {
-      chapter: 'Pour toujours',
+      chapter: 'Pour Toujours',
       emoji: '👑',
       portrait: 'mouvement',
-      title: 'À tes côtés',
-      text: 'Le Clan des Oursons a écrit la légende. Ethan\'Zer a tenu sa promesse. Il est allé jusqu\'au bout. Et moi, je suis là. Libre. À tes côtés. Aujourd\'hui et pour toujours.',
+      title: 'à tes côtés',
+      text: 'Grâce à toi, j\'ai retrouvé mes souvenirs. Mais grâce aux Oursons… tout a été possible. Et je n\'y serais jamais arrivée sans vous tous. À ce stade… je me demande si je ne suis pas un peu mariée à vous aussi. Merci, vraiment.',
     },
   ];
 
