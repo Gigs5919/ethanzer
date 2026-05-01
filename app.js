@@ -1222,7 +1222,7 @@
             <div class="story-slide">
               <div class="story-portrait" data-pose="${pose}"><img src="assets/ethan/${pose}.png" alt="Ethan'Zer" /></div>
               <h2 class="slide-title">${sl.title}</h2>
-              <p class="slide-text">${sl.text.replace(/\n\n/g, '<br><br>')}</p>
+              <p class="slide-text">${sl.text}</p>
             </div>`;
           }).join('')}
         </div>
