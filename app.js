@@ -11,7 +11,7 @@
      appareil (s'affiche en bas de l'écran d'accueil et dans
      le panneau joueurs en partie).
   ────────────────────────────────────────────── */
-  const APP_VERSION = 'v10 · 24 boosters';
+  const APP_VERSION = 'v11 · narration unifiée';
 
   /* ──────────────────────────────────────────────
      CONTENU — Histoire & Défis (personnalisables)
@@ -84,8 +84,8 @@
       kind: 'defi',
       emoji: '🍷',
       title: 'Le Rituel des Cépages',
-      description: 'Pour commencer, Ethan\'Zer et son clan vont profiter d\'un moment pour se détendre avant d\'entrer dans l\'aventure. Son défi : déguster à l\'aveugle les vins de Mathieu et reconnaître les cépages cachés dans chaque verre. Le Clan des Oursons validera ses réponses.',
-      descriptionGold: 'Pour commencer, ton Clan et toi allez profiter d\'un moment pour vous détendre avant d\'entrer dans l\'aventure. Ton défi, Ethan\'Zer : déguster à l\'aveugle les vins de Mathieu et reconnaître les cépages cachés dans chaque verre. Le Clan des Oursons validera tes réponses.',
+      description: 'Pour commencer, Ethan\'Zer et son Clan se rassemblent avant le grand voyage. Son défi : déguster à l\'aveugle les vins de Mathieu et reconnaître les cépages cachés dans chaque verre. Le Clan des Oursons validera ses réponses et libèrera les premiers fragments de souvenir.',
+      descriptionGold: 'Pour commencer, ton Clan et toi vous rassemblez avant le grand voyage. Ton défi, Ethan\'Zer : déguster à l\'aveugle les vins de Mathieu et reconnaître les cépages cachés dans chaque verre. Le Clan des Oursons validera tes réponses et libèrera les premiers fragments de souvenir.',
       maxBoosters: 2,
     },
     {
@@ -93,8 +93,8 @@
       kind: 'defi',
       emoji: '🎮',
       title: 'L\'Entraînement du Combattant',
-      description: 'Manger et boire, c\'est une chose. Mais pour affronter les Wolgarms, Ethan\'Zer doit aussi s\'entraîner au combat. Son défi : remporter deux parties de Mario Smash Bros en mode mêlée face à ses compagnons. Le Clan des Oursons jugera sa stratégie, ses réflexes et sa capacité à garder son sang-froid dans la mêlée.',
-      descriptionGold: 'Manger et boire, c\'est une chose. Mais pour affronter les Wolgarms, tu dois aussi t\'entraîner au combat. Ton défi, Ethan\'Zer : remporter deux parties de Mario Smash Bros en mode mêlée face à tes compagnons. Le Clan des Oursons jugera ta stratégie, tes réflexes et ta capacité à garder ton sang-froid dans la mêlée.',
+      description: 'Manger et boire, c\'est une chose. Mais pour traverser les épreuves du destin, Ethan\'Zer doit aussi affûter ses réflexes. Son défi : remporter deux parties de Mario Smash Bros en mode mêlée face à ses compagnons. Le Clan des Oursons jugera sa stratégie, ses réflexes et sa capacité à garder son sang-froid dans la mêlée.',
+      descriptionGold: 'Manger et boire, c\'est une chose. Mais pour traverser les épreuves du destin, tu dois aussi affûter tes réflexes. Ton défi, Ethan\'Zer : remporter deux parties de Mario Smash Bros en mode mêlée face à tes compagnons. Le Clan des Oursons jugera ta stratégie, tes réflexes et ta capacité à garder ton sang-froid dans la mêlée.',
       maxBoosters: 2,
     },
     {
@@ -102,44 +102,44 @@
       kind: 'defi',
       emoji: '🍱',
       title: 'Le Ravitaillement du Clan',
-      description: 'Avant le départ, Ethan\'Zer doit s\'assurer que son clan a assez d\'énergie pour l\'accompagner jusqu\'au bout. Son défi : aller chercher le déjeuner pour nourrir le Clan des Oursons. Le Clan jugera sa rapidité, son organisation et sa capacité à revenir avec de quoi satisfaire tout le monde.',
-      descriptionGold: 'Avant le départ, tu dois t\'assurer que ton Clan a assez d\'énergie pour t\'accompagner jusqu\'au bout. Ton défi, Ethan\'Zer : aller chercher le déjeuner pour nourrir le Clan des Oursons. Le Clan jugera ta rapidité, ton organisation et ta capacité à revenir avec de quoi satisfaire tout le monde.',
+      description: 'Avant le départ, Ethan\'Zer doit s\'assurer que son Clan a assez d\'énergie pour l\'accompagner jusqu\'au bout du chemin. Son défi : aller chercher le déjeuner pour nourrir le Clan des Oursons. Le Clan jugera sa rapidité, son organisation et sa capacité à revenir avec de quoi satisfaire tout le monde.',
+      descriptionGold: 'Avant le départ, tu dois t\'assurer que ton Clan a assez d\'énergie pour t\'accompagner jusqu\'au bout du chemin. Ton défi, Ethan\'Zer : aller chercher le déjeuner pour nourrir le Clan des Oursons. Le Clan jugera ta rapidité, ton organisation et ta capacité à revenir avec de quoi satisfaire tout le monde.',
       maxBoosters: 3,
     },
     {
       index: 3,
       kind: 'activite',
       emoji: '🌲',
-      title: 'Les Portes de la Forêt',
-      description: 'Avant d\'entrer dans la forêt avoisinante, Ethan\'Zer doit franchir un passage semé d\'obstacles. Il devra avancer avec courage, garder son sang-froid et surmonter les obstacles qui se dresseront devant lui. Le Clan des Oursons jugera sa détermination et sa capacité à ne pas reculer devant l\'inconnu.',
-      descriptionGold: 'Avant d\'entrer dans la forêt avoisinante, tu dois franchir un passage semé d\'obstacles. Tu devras avancer avec courage, garder ton sang-froid et surmonter les obstacles qui se dresseront devant toi. Le Clan des Oursons jugera ta détermination et ta capacité à ne pas reculer devant l\'inconnu.',
+      title: 'Les Portes de l\'Épreuve',
+      description: 'Avant d\'avancer plus loin sur le chemin, Ethan\'Zer doit franchir un passage semé d\'obstacles. Il devra avancer avec courage, garder son sang-froid et surmonter chaque pièce qui se dressera devant lui. Le Clan des Oursons jugera sa détermination et sa capacité à ne pas reculer devant l\'inconnu.',
+      descriptionGold: 'Avant d\'avancer plus loin sur le chemin, tu dois franchir un passage semé d\'obstacles. Tu devras avancer avec courage, garder ton sang-froid et surmonter chaque pièce qui se dressera devant toi. Le Clan des Oursons jugera ta détermination et ta capacité à ne pas reculer devant l\'inconnu.',
       maxBoosters: 4,
     },
     {
       index: 4,
       kind: 'defi',
-      emoji: '🧠',
-      title: 'L\'Épreuve du Savoir',
-      description: 'Ethan\'Zer a prouvé son agilité lors de l\'épreuve précédente. Mais un héros ne survit pas seulement avec ses réflexes. Son défi : répondre en 2 minutes au plus grand nombre de questions possible. Chaque bonne réponse lui permettra de gagner des boosters. Le Clan des Oursons jugera sa mémoire et sa capacité à rester concentré sous pression.',
-      descriptionGold: 'Tu as prouvé ton agilité lors de l\'épreuve précédente. Mais un héros ne survit pas seulement avec ses réflexes. Ton défi, Ethan\'Zer : répondre en 2 minutes au plus grand nombre de questions possible. Chaque bonne réponse te permettra de gagner des boosters. Le Clan des Oursons jugera ta mémoire et ta capacité à rester concentré sous pression.',
+      emoji: '✨',
+      title: 'L\'Oracle du Voyage',
+      description: 'Ethan\'Zer a prouvé son agilité lors de l\'épreuve précédente. Mais le destin ne se limite pas aux défis annoncés. Cette fois, ce sont les Oursons qui dévoileront sur le moment l\'épreuve à relever. Le Clan jugera sa capacité à embrasser l\'inconnu et à se hisser à la hauteur de ce qu\'il lui sera demandé.',
+      descriptionGold: 'Tu as prouvé ton agilité lors de l\'épreuve précédente. Mais le destin ne se limite pas aux défis annoncés. Cette fois, ce sont les Oursons qui dévoileront sur le moment l\'épreuve à relever. Le Clan jugera ta capacité à embrasser l\'inconnu et à te hisser à la hauteur de ce qu\'il te sera demandé.',
       maxBoosters: 2,
     },
     {
       index: 5,
       kind: 'activite',
-      emoji: '🐺',
-      title: 'Les Hordes de Wolgarms',
-      description: 'Ethan\'Zer et son clan sont maintenant entrés dans la forêt. Au loin, une menace approche. Les Wolgarms arrivent. Son défi : plonger dans un monde virtuel et survivre aux hordes ennemies. Le Clan des Oursons jugera ses techniques de combat.',
-      descriptionGold: 'Ton Clan et toi êtes maintenant entrés dans la forêt. Au loin, une menace approche. Les Wolgarms arrivent. Ton défi, Ethan\'Zer : plonger dans un monde virtuel et survivre aux hordes ennemies. Le Clan des Oursons jugera tes techniques de combat.',
+      emoji: '⚔️',
+      title: 'Les Hordes du Néant',
+      description: 'Ethan\'Zer et son Clan ont franchi un seuil. Au loin, une menace approche. Les ombres du Néant arrivent. Son défi : survivre aux hordes ennemies. Le Clan des Oursons jugera ses techniques de combat.',
+      descriptionGold: 'Ton Clan et toi avez franchi un seuil. Au loin, une menace approche. Les ombres du Néant arrivent. Ton défi, Ethan\'Zer : survivre aux hordes ennemies. Le Clan des Oursons jugera tes techniques de combat.',
       maxBoosters: 4,
     },
     {
       index: 6,
       kind: 'defi',
-      emoji: '🎤',
-      title: 'Le Chant du Clan',
-      description: 'Ethan\'Zer et le Clan des Oursons ont réussi à arracher des informations aux Wolgarms. Grâce aux indices récoltés, ils savent enfin où Emilia est retenue. Avant d\'aller la retrouver, Ethan\'Zer doit redonner de la force à son clan après ce périlleux combat. Son défi : chanter une chanson imposée par ses compagnons, à voix haute et avec conviction. Le Clan des Oursons jugera son énergie et sa capacité à motiver les troupes avant l\'ultime étape.',
-      descriptionGold: 'Toi et le Clan des Oursons avez réussi à arracher des informations aux Wolgarms. Grâce aux indices récoltés, vous savez enfin où Emilia est retenue. Avant d\'aller la retrouver, tu dois redonner de la force à ton Clan après ce périlleux combat. Ton défi, Ethan\'Zer : chanter une chanson imposée par tes compagnons, à voix haute et avec conviction. Le Clan des Oursons jugera ton énergie et ta capacité à motiver les troupes avant l\'ultime étape.',
+      emoji: '🔮',
+      title: 'L\'Oracle du Destin',
+      description: 'Ethan\'Zer et le Clan des Oursons ont triomphé du Néant. Les fragments libérés ont rapproché Emilia de ses souvenirs. Avant l\'ultime étape, le Clan dévoilera une dernière épreuve choisie sur l\'instant. Les Oursons jugeront la capacité d\'Ethan\'Zer à honorer l\'imprévu avant d\'affronter l\'ultime serment.',
+      descriptionGold: 'Toi et le Clan des Oursons avez triomphé du Néant. Les fragments libérés ont rapproché Emilia de ses souvenirs. Avant l\'ultime étape, le Clan dévoilera une dernière épreuve choisie sur l\'instant. Les Oursons jugeront ta capacité à honorer l\'imprévu avant d\'affronter l\'ultime serment.',
       maxBoosters: 3,
     },
     {
@@ -147,8 +147,8 @@
       kind: 'defi',
       emoji: '🤝',
       title: 'Le Serment du Clan',
-      description: 'Ethan\'Zer et le Clan des Oursons ont retrouvé Emilia. Elle est là, prisonnière, mais une dernière barrière bloque encore sa libération. Pour l\'ouvrir, Ethan\'Zer doit prouver qu\'il connaît vraiment ceux qui l\'ont accompagné jusqu\'ici. Son défi : citer précisément le métier de chaque membre de son clan. Les Oursons jugeront sa mémoire, sa précision et sa capacité à honorer chacun de ses compagnons avant de libérer Emilia.',
-      descriptionGold: 'Toi et le Clan des Oursons avez retrouvé Emilia. Elle est là, prisonnière, mais une dernière barrière bloque encore sa libération. Pour l\'ouvrir, tu dois prouver que tu connais vraiment ceux qui t\'ont accompagné jusqu\'ici. Ton défi, Ethan\'Zer : citer précisément le métier de chaque membre de ton Clan. Les Oursons jugeront ta mémoire, ta précision et ta capacité à honorer chacun de tes compagnons avant de libérer Emilia.',
+      description: 'Ethan\'Zer et le Clan des Oursons touchent au but. Les fragments sont presque tous réunis, mais une dernière barrière bloque la mémoire d\'Emilia. Pour l\'ouvrir, Ethan\'Zer doit prouver qu\'il connaît vraiment ceux qui l\'ont accompagné jusqu\'ici. Son défi : citer précisément le métier de chaque membre de son Clan. Les Oursons jugeront sa mémoire, sa précision et sa capacité à honorer chacun de ses compagnons avant de retrouver Emilia.',
+      descriptionGold: 'Toi et le Clan des Oursons touchez au but. Les fragments sont presque tous réunis, mais une dernière barrière bloque la mémoire d\'Emilia. Pour l\'ouvrir, tu dois prouver que tu connais vraiment ceux qui t\'ont accompagné jusqu\'ici. Ton défi, Ethan\'Zer : citer précisément le métier de chaque membre de ton Clan. Les Oursons jugeront ta mémoire, ta précision et ta capacité à honorer chacun de tes compagnons avant de retrouver Emilia.',
       maxBoosters: 4,
     },
   ];
